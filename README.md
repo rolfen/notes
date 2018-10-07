@@ -2,9 +2,7 @@
 
 Public tech journal
 
-I'm using stackedit.io to edit it.
-
 Entries are in format DD.MM.YY
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjIxMzA2NzBdfQ==
+eyJoaXN0b3J5IjpbLTkyNTU4NjQ0MSwtMTk2MjEzMDY3MF19
 -->
