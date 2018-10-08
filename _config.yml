@@ -1,2 +1,5 @@
 # Where things are
 source              : ./entries/
+
+plugins:
+  - jekyll-readme-index
