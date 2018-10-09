@@ -2,6 +2,6 @@
 
 Public tech journal
 
-Entries are in format DD.MM.YY
+Entries follow the Jeckyll format `YYYY-MM-DD-optional-title.md`
 
-I'm using prose.io to edit them
+As MD editors, prose.io or stackedit.io can help
