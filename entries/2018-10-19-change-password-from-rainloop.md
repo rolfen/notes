@@ -51,3 +51,5 @@ UPDATE `accounts` set `password`=ENCRYPT('myPassword', CONCAT('{SHA512-CRYPT}$6$
 
 The methods above create password values which are not prepended with '{SHA512-CRYPT}', as opposed to the [`doveadm pw` method](https://thomas-leister.de/en/mailserver-debian-stretch/#create-a-new-user-account).
 It seems to work, but I don't have a deep understanding of the procedure, so maybe some further research and testing would be good, to rule out any edge cases and potential issues.
+
+There is a concern about escaping - single quotes in the password are not properly escaped, they cause an SQL syntax error, this has to be further investigated.
