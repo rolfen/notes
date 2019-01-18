@@ -1,7 +1,10 @@
 # tech-journal
 
-Public tech journal
+https://rolfen.github.io/tech-journal/
 
-Entries follow the Jeckyll format `YYYY-MM-DD-optional-title.md`
+Public tech journal.
 
-As MD editors, prose.io or stackedit.io can help
+## Contents
+* [Archival](entries/my-archive.md)
+
+As MD editor, prose.io can help
