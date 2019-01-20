@@ -1,7 +1,7 @@
 
 These are some of the tasks that I typically do at some point after installing a new Debian system.
 
-### Addmin myself to sudoers
+### Add myself to sudoers
 ```
 su -
 usermod -aG sudo myusername
