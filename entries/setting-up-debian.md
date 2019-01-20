@@ -17,3 +17,10 @@ echo 'deb http://deb.debian.org/debian unstable main' >> /etc/apt/sources.list
 # we don't want all our system to be updated from experimental
 echo 'APT::Default-Release "stable";' > /etc/apt/apt.conf.d/99defaultrelease
 ```
+
+### Some useful tools
+
+#### apt-file
+
+`apt-file` can find the package provides a particular (usually executable) file:  
+`apt-get install apt-file`
