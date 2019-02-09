@@ -41,3 +41,6 @@ Requirements:
  
    Pros:
     * Cross-platform
+    
+   Note:
+    * Must use "compare with file contents" option to detect moved files
