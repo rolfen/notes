@@ -28,6 +28,9 @@ Requirements:
     * Rewrites file name - how much of an issue is that?
     * Limitations pertaning to storing tags in filenames: lenght and encoding
     * GUI-driven: flexibility and script-ability
+    
+  * Extending [catcli](https://github.com/rolfen/catcli) to provide taging functionality
+    To be accessible we would also need simple shell extensions (contextual menu, etc.) for quick tagging.
 
 ## Uniqueness
 
