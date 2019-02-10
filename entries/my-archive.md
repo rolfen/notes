@@ -53,7 +53,7 @@ General Requirements:
     * Does not seem to reliably detect files which have moved locations.
 
 
-## Other Concerns
+## Misc
 
 
 ### Directory Organization
