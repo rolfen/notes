@@ -43,4 +43,13 @@ Requirements:
     * Cross-platform
     
    Note:
-    * Must use "compare with file contents" option to detect moved files
+    * Does not seem to reliably detect files which have moved locations.
+    
+    
+## Comments
+
+I would like to delete duplicates. I would like to define where I want them gone or kept. For example, I have disk F: and disk G: and I would want to find duplicate across these two disks but then delete them on G:.
+
+It would be nice to parse all files and record them into a (Sqlite) database with their hashes. This DB needs to be in sync.
+
+This would make operations (searching, deduplication, organisation, tagging) faster, as there is no need to parse all the files again and re-calculate the hashes every time.
