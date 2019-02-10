@@ -7,7 +7,7 @@ I need to organize my files. My core concerns are:
  - [Redundancy:](#redundancy) The data has to be redundant.
  
 
-General Requirements:
+General Requirements for tools:
  
  * Cross-platform
  * Ideally command line and scriptable
