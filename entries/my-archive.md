@@ -21,7 +21,7 @@ General Requirements:
 ### Tagging
 
 
- * [TagSpaces](https://www.tagspaces.org/)
+ * **Potential** solution: [TagSpaces](https://www.tagspaces.org/)
  
    Pros:
     * Cross-platform
@@ -44,13 +44,16 @@ General Requirements:
 
 #### Intelligent syncinc across volumes
 
- * [FreeFileSync](https://freefilesync.org/)
+ * [FreeFileSync](https://freefilesync.org/) Will sync/mirror your files
  
    Pros:
     * Cross-platform
+    * Open-source code
     
    Note:
     * Does not seem to reliably detect files which have moved locations.
+    * Not sure how easy it is to extend
+    * Contribution model: not hosted on github
 
 
 ## Misc
