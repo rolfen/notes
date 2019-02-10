@@ -1,10 +1,13 @@
-I need to organize my files. My concerns are:
+
+# The Archive
+
+I need to organize my files. My core concerns are:
  - [Tagging them and retrieving them based on tags](#tagging)
  - [Uniqueness: deduplicating them](#uniqueness)
- - [Backup: Intelligent syncinc across volumes](#backup)
+ - [Redundancy:](#redundancy) The data has to be redundant.
  
 
-Requirements:
+General Requirements:
  
  * Cross-platform
  * Ideally command line and scriptable
@@ -13,7 +16,9 @@ Requirements:
  * Free or cheap
  * Actively maintained
  
-## Tagging
+## Core Concerns
+ 
+### Tagging
 
 
  * [TagSpaces](https://www.tagspaces.org/)
@@ -32,10 +37,12 @@ Requirements:
   * Extending [catcli](https://github.com/rolfen/catcli) to provide taging functionality
     To be accessible we would also need simple shell extensions (contextual menu, etc.) for quick tagging.
 
-## Uniqueness
+### Uniqueness
 
 
-## Backup
+### Redundancy
+
+#### Intelligent syncinc across volumes
 
  * [FreeFileSync](https://freefilesync.org/)
  
@@ -44,9 +51,17 @@ Requirements:
     
    Note:
     * Does not seem to reliably detect files which have moved locations.
+
+
+## Other Concerns
+
+
+### Directory Organization
+
+[For Photos and Videos](https://gist.github.com/rolfen/244c691660839c27941cd371683039ba), folders are created based on EXIF date.
+
     
-    
-## Comments
+### Comments
 
 I would like to delete duplicates. I would like to define where I want them gone or kept. For example, I have disk F: and disk G: and I would want to find duplicate across these two disks but then delete them on G:.
 
