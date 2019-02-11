@@ -51,6 +51,11 @@ General Requirements for tools:
     * Refuses to deduplicate purely from checksum files, so deduplication is always a slow operation
     * No user-friendly way to inspect duplicates
     * No way to update checksum files. They have to be re-generated after adding files, which can take hours.
+    
+#### Potential solutions
+
+Extending `catcli` to provide deduplication. This thing should accept plugins!
+    
 
 ### Redundancy
 
