@@ -36,6 +36,7 @@ General Requirements for tools:
     
   * Extending [catcli](https://github.com/rolfen/catcli) to provide taging functionality
     To be accessible we would also need simple shell extensions (contextual menu, etc.) for quick tagging.
+  * Custom solution based on SQLite
 
 ### Uniqueness
 
@@ -54,8 +55,8 @@ General Requirements for tools:
     
 #### Potential solutions
 
-Extending `catcli` to provide deduplication. This thing should accept plugins!
-    
+ * Extending `catcli` to provide deduplication. This thing should accept plugins!
+ * Custom solution based on SQLite
 
 ### Redundancy
 
