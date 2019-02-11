@@ -39,6 +39,16 @@ General Requirements for tools:
 
 ### Uniqueness
 
+#### Tested solutions
+ * CloneSpy (Windows)
+ 
+   Pros:
+    * Nice GUI
+    * Can generate checksum file for faster compare
+    * Possible deletion options including generating a batch file
+
+   Cons:
+    * Refuses to deduplicate purely from checksum files, so deduplication is always a slow operation
 
 ### Redundancy
 
