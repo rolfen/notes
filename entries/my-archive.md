@@ -49,6 +49,7 @@ General Requirements for tools:
 
    Cons:
     * Refuses to deduplicate purely from checksum files, so deduplication is always a slow operation
+    * No user-friendly way to inspect duplicates
 
 ### Redundancy
 
