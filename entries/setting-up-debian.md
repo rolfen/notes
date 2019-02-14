@@ -34,6 +34,15 @@ if [ -d "$HOME/.local/bin" ] ; then
 fi
 ```
 
+### Enable advanced auto-completion
+
+Autocompletion helper for command arguments whenever available
+
+```
+sudo apt-get install bash-completion
+```
+
+
 ### Some useful tools
 
 #### apt-file
