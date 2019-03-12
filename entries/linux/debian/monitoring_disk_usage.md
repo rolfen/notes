@@ -18,6 +18,7 @@ On the other hand, a `baobab` is a nice GUI tool to give you a top-down view of 
 Sort of like `du -d 1 -h`, only fancier.
 
 For a quick overview per partition nothing bets: `df -h`
+
 In my experience you will find your *roughly* adding up in this way:  
 ```
 Installed packages total + user data (/home/) + local data (/var/) = total space use
