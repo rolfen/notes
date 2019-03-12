@@ -19,7 +19,7 @@ Sort of like `du -d 1 -h`, only fancier.
 
 For a quick overview per partition nothing bets: `df -h`
 
-In my experience you will find your *roughly* adding up in this way:  
+In my experience you will find your numbers *roughly* adding up in this way:  
 ```
 Installed packages total + user data (/home/) + local data (/var/) = total space use
 ```
