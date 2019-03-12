@@ -13,11 +13,11 @@ To get the total for all installed packages (in K):
 wajig sizes |sed -E 's/^\S+\s+(\S+).+/\1/' | sed -E s/,// | awk '{s+=$1} END {print s}'
 ```
 
-On the other hand, a `baobab` is a nice GUI tool to give you a top-down view of space usage by directory.
+On the other hand, the `baobab` is a nice GUI tool to give you a top-down view of space usage by directory.
 
 Sort of like `du -d 1 -h`, only fancier.
 
-For a quick overview per partition nothing bets: `df -h`
+For a quick overview per partition nothing beats: `df -h`
 
 In my experience you will find your numbers *roughly* adding up in this way:  
 ```
