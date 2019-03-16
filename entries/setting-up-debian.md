@@ -21,6 +21,8 @@ echo 'deb http://deb.debian.org/debian unstable main' >> /etc/apt/sources.list
 echo 'APT::Default-Release "stable";' > /etc/apt/apt.conf.d/99defaultrelease
 ```
 
+Also might be interesting to add access to `non-free` packages if it's not already there.
+
 ### Add `~/.local/bin` to PATH
 
 For some reason, Debian does not add this directory to path by default, but `pip` installs binaries here by default.
