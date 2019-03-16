@@ -11,7 +11,7 @@ usermod -aG sudo myusername
 ```
 Need to log off to apply changes.
 
-### Adding access to experimental packages
+### Add access to experimental packages
 ```
 su -
 # note: highest priority on top
@@ -21,7 +21,7 @@ echo 'deb http://deb.debian.org/debian unstable main' >> /etc/apt/sources.list
 echo 'APT::Default-Release "stable";' > /etc/apt/apt.conf.d/99defaultrelease
 ```
 
-### Adding `~/.local/bin` to PATH
+### Add `~/.local/bin` to PATH
 
 For some reason, Debian does not add this directory to path by default, but `pip` installs binaries here by default.
 
@@ -34,18 +34,19 @@ if [ -d "$HOME/.local/bin" ] ; then
 fi
 ```
 
-### Enable advanced auto-completion
-
-Autocompletion helper for command arguments whenever available
-
-```
-sudo apt-get install bash-completion
-```
 
 
-### Some useful tools
+### Install a few useful packages
 
-#### apt-file
+#### ... Package managment
 
-`apt-file` can find the package provides a particular (usually executable) file:  
-`apt-get install apt-file`
+ - `apt-file` can find the package provides a particular (usually executable) file  
+ - `apt-listbugs` list any serious bug before installing a package. Useful for packages from `unstable` or `testing`
+
+#### ... Terminal
+
+`bash-completion` Autocompletion helper for command arguments whenever available
+
+#### ... System monitoring
+
+`htop` Alternative to `top`
