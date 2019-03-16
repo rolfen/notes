@@ -17,7 +17,7 @@ su -
 # note: highest priority on top
 echo 'deb http://deb.debian.org/debian experimental main' >> /etc/apt/sources.list
 echo 'deb http://deb.debian.org/debian unstable main' >> /etc/apt/sources.list
-# we don't want all our system to be updated from experimental
+# Get stable packages by default
 echo 'APT::Default-Release "stable";' > /etc/apt/apt.conf.d/99defaultrelease
 ```
 
