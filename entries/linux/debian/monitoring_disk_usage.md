@@ -3,9 +3,9 @@ I like to use the `wajig` tool for this.
 One easy way to show how much space every installed package uses:
 `wajig sizes` or for only the biggest packages `wajig large`.
 
-Note: It is my understanding that the size here is a forehand approximation taken from the package meta-information in package management.
+Note: It is my understanding that the sizes given here are taken from the package meta-information. In other words, this is how much space theis package should be using, according to the package maintainer.
 
-In my experience, this number is accurate. However it does not take into consideration the local data in `/var/`.
+In my experience, this number is accurate. However it does not take into consideration any related data in `/var/`.
 
 To get the total for all installed packages (in K):
 
