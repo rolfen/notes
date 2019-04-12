@@ -24,6 +24,30 @@ Send SMS # 0:
 
 This worked.
 
-Then I tried to receive an SMS on the computer, but it seems that Android gets a hold of them and they never make it to Linux. I guess I'll need a dedicated GSM modem for this.
 
+## Receiving
 
+Then I tried to receive an SMS, however Android gets a hold of them and they never make it to ModemManager. 
+
+However, given a dedicated GSM modem, this works pretty well:
+
+	mmcli -m 0 --messaging-list-sms
+
+Then for example, read SMS number 15;
+
+	mmcli -s 15
+	
+	
+## Etc.
+
+Check your mobile internet usage (Alfa Lebanon):
+
+	mmcli -m 0 --3gpp-ussd-initiate='*11#'
+	
+## GUI
+
+There is pretty nice GUI for sending and receiving SMSes (and some other nice functions):
+
+https://bitbucket.org/linuxonly/modem-manager-gui/src/default/
+
+However the version that was provided by Debian packages had a fatal bug - I had to compile from source using the linke above. It was worth it!
