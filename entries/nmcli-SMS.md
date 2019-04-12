@@ -51,3 +51,5 @@ There is pretty nice GUI for sending and receiving SMSes (and some other nice fu
 https://bitbucket.org/linuxonly/modem-manager-gui/src/default/
 
 However the version that was provided by Debian packages had a fatal bug - I had to compile from source using the linke above. It was worth it!
+
+Note that when Modem Manager GUI is running, it will "consume" received SMS messages and play a notification, which is nice. However this means that these messages will not show up in `nmcli` anymore.
