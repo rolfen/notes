@@ -8,3 +8,4 @@ Some notes, mostly IT things.
 * [Local files in Git](entries/local-config-git-php.md)
 
 Web: https://rolfen.github.io/tech-journal/
+Source: https://github.com/rolfen/tech-journal
