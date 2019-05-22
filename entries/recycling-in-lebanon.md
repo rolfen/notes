@@ -12,17 +12,17 @@
 
 Please put them in the nearest location to your residence.
 The bins for both Plastics & Glass are located at these spots:
-1) Armenia Street - Mar Mikhael - By Civil Defense Center facing Old Train Station
-2) Gemmayzeh Street - by Red Cross Center facing Imm Nazih
-3) Sodeco Square - Facing T-Square under the trees on the roundabout
-4) Sassine Square - on the Side leading to Hotel Dieu - facing Breakfast to Breakfast
-5) Badaro Main Street facing Onno Restaurant & Pharmacie Alouf
-6) Beit Mery Souk - road leading to Librairie Madi
-7) Ayn El Rihani – Kesrouan – main Plaza in front of the Church
+1. Armenia Street - Mar Mikhael - By Civil Defense Center facing Old Train Station
+2. Gemmayzeh Street - by Red Cross Center facing Imm Nazih
+3. Sodeco Square - Facing T-Square under the trees on the roundabout
+4. Sassine Square - on the Side leading to Hotel Dieu - facing Breakfast to Breakfast
+5. Badaro Main Street facing Onno Restaurant & Pharmacie Alouf
+6. Beit Mery Souk - road leading to Librairie Madi
+7. Ayn El Rihani – Kesrouan – main Plaza in front of the Church
 
 There are 2 Bins for Glass only:
-1) Hamra - Intersection of Makdessi st 
-2) AbdelAziz st facing HSBC & Golden Tulip Hotel
+1. Hamra - Intersection of Makdessi st 
+2. AbdelAziz st facing HSBC & Golden Tulip Hotel
 
 ## Carboard / Paper
 
