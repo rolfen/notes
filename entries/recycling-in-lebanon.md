@@ -21,8 +21,12 @@ The bins for both Plastics & Glass are located at these spots:
 7) Ayn El Rihani – Kesrouan – main Plaza in front of the Church
 
 There are 2 Bins for Glass only:
-1) Hamra - Intersection of Makdessi st & AbdelAziz st facing HSBC & Golden Tulip Hotel
+1) Hamra - Intersection of Makdessi st 
+2) AbdelAziz st facing HSBC & Golden Tulip Hotel
 
+## Carboard / Paper
+
+Clean paper/cardboard can be picked up by [Arc-en-ciel](https://www.arcenciel.org/activities/sorting-centers-for-recyclable-waste/) if they are of sufficient quantity.
 
 ## Cans (Coke, Pepsi, etc.)
 
