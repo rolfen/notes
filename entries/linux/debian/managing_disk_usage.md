@@ -40,3 +40,7 @@ Package managers are a good way to install and uninstall applications in a neat 
 However, sometimes you would want to build from source.
 
 In these cases, it is recommended to use the `equivs-build` tool for quickly creating virtual package which keep track of build dependencies for a particular project.
+
+http://www.linuxcertif.com/man/1/equivs-build/
+
+https://www.unixdaemon.net/linux/creating-debian-virtual-packages/
