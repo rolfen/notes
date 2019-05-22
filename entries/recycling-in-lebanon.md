@@ -19,3 +19,8 @@ The bins for both Plastics & Glass are located at these spots:
 
 There are 2 Bins for Glass only:
 1) Hamra - Intersection of Makdessi st & AbdelAziz st facing HSBC & Golden Tulip Hotel
+
+
+## Cans (Coke, Pepsi, etc.)
+
+You will find groups that pick up these, however what I do, is I collect them and leave a bag full of crushed cans in my trunk. From time to time, when I see someone scavenging garbage bins, I would stop the car and give them the bag. These people usually know where to sell these by the weight.
