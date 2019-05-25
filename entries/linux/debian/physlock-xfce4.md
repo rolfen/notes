@@ -39,21 +39,18 @@ Just look for the list of screen-locking commands that the script tries, and add
 
 ```
 for lock_cmd in \
-    "xscreensaver-command -lock" \
-    "light-locker-command --lock" \
-    "gnome-screensaver-command --lock" \
-    "mate-screensaver-command --lock" 
-do
+  "xlock -mode blank" \
+  "slock"
+  do
 ```
 
 Becomes: 
 
 ```
 for lock_cmd in \
-    "xscreensaver-command -lock" \
-    "light-locker-command --lock" \
-    "gnome-screensaver-command --lock" \
-    "mate-screensaver-command --lock" \
-    "physlock"
-do
+  "xlock -mode blank" \
+  "slock" \ 
+  "physlock" 
+  do
+
 ```
