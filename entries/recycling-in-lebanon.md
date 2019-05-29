@@ -1,5 +1,4 @@
 ## Electronics
- - Céline: 01-249653 03-664114(or 2?)
  - [Ecoserv](https://ecoservlb.org/)
    ![Drop points](https://ecoservlb.org/wp-content/uploads/2019/04/DropZone-Network-1024x575.jpg)
 
