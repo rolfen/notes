@@ -30,3 +30,7 @@ Clean paper/cardboard can be picked up by [Arc-en-ciel](https://www.arcenciel.or
 ## Cans (Coke, Pepsi, etc.)
 
 You will find groups that pick up these, however what I do, is I collect them and leave a bag full of crushed cans in my trunk. From time to time, when I see someone scavenging garbage bins, I would stop the car and give them the bag. These people usually know where to sell these by the weight.
+
+## Food
+
+For food donations (for example food remaining after an event), get in touch with [FoodBlessed](https://foodblessed.org/)
