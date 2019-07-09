@@ -27,7 +27,7 @@ Also might be interesting to add access to `non-free` packages if it's not alrea
 
 For some reason, Debian does not add this directory to path by default, but `pip` installs binaries here by default.
 
-Append the following to ~/.profile
+Append the following to ~/.bashrc
 
 ```
 # Debian missed this - pip-installed binaries go here
