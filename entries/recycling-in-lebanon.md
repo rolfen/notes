@@ -4,7 +4,7 @@ Please recycle and try to reduce waste. Most of the waste in Lebanon goes to lan
 
 Here are some resources to help you recycle / reduce waste if you are in Lebanon.
 
-If you find outdated information, please [post and issue on Github](https://github.com/rolfen/tech-journal/issues).
+If you find outdated information, please [raise the issue on Github](https://github.com/rolfen/tech-journal/issues).
 
 Thank you.
 
