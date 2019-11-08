@@ -1,7 +1,16 @@
+Hi!
+
+Please recycle and try to reduce waste. Most of the waste in Lebanon goes to landfills or ends up in the sea.
+
+Here are some resources to help you recycle / reduce waste if you are in Lebanon.
+
+If you find outdated information, please [post and issue on Github](https://github.com/rolfen/tech-journal/issues).
+
+Thank you.
+
 ## Electronics
  - [Ecoserv](https://ecoservlb.org/)
    ![Drop points](https://ecoservlb.org/wp-content/uploads/2019/04/DropZone-Network-1024x575.jpg)
-
 
 ## Books
  - http://www.assabil.com/en/news_article.php?newsId=24
@@ -29,7 +38,7 @@ Clean paper/cardboard can be picked up by [Arc-en-ciel](https://www.arcenciel.or
 
 ## Cans (Coke, Pepsi, etc.)
 
-You will find groups that pick up these, however what I do, is I collect them and leave a bag full of crushed cans in my trunk. From time to time, when I see someone scavenging garbage bins, I would stop the car and give them the bag. These people usually know where to sell these by the weight.
+You will find many groups that pick up these. However I suggest you crush them, collect them, then give to people that you see scavenging garbage bins. They know where to sell them.
 
 ## Food
 
