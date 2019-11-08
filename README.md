@@ -1,5 +1,3 @@
-# tech-journal
-
 Things IT:
 
 * [File Archival](entries/my-archive.md)
@@ -11,6 +9,6 @@ Other concerns:
 
 * [Lebanon: Reducing waste in your daily life](entries/recycling-in-lebanon.md)
 
-[View site](https://rolfen.github.io/tech-journal/)   
-[View source](https://github.com/rolfen/tech-journal)   
+[View site](https://rolfen.github.io/notes/)   
+[View source](https://github.com/rolfen/notes)   
 
