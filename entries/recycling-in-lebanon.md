@@ -1,3 +1,5 @@
+# Reducing waste
+
 Hi!
 
 Please recycle and try to reduce waste. Most of the waste in Lebanon goes to landfills or ends up in the sea.
