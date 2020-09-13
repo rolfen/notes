@@ -45,3 +45,7 @@ You will find many groups that pick up these. However I suggest you crush them, 
 ## Food
 
 For food donations (for example food remaining after an event), get in touch with [FoodBlessed](https://foodblessed.org/)
+
+## Additional resources
+
+[List of recycling center in Lebanon - 2015](https://hummusforthought.com/2015/08/01/list-of-recycling-centers-in-lebanon/)
