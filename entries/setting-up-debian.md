@@ -49,6 +49,19 @@ fi
 
 `bash-completion` Autocompletion helper for command arguments whenever available
 
+ Then possibly add autocomplete for commonly pinged domains  
+ `complete -W 'two.eebe.be google.com' ping`
+
 #### ... System monitoring
 
 `htop` Alternative to `top`
+
+### Configure `xfce4-terminal`
+
+ - Open Edit -> Preferences
+ - In the first tab "General", under label "Command", enable "Run command as login shell"
+ 
+This will ensure that all the good stuff under `/etc/profile.d` (such as bash autocomplete) gets loaded.
+
+
+
