@@ -10,7 +10,7 @@ For the sake of example, let's have `htop` running.
 $ htop
 ```
 
-In a new terminal, find the PID of `htop` (it's the 1st number)
+In a new terminal (for the same user), find the PID of `htop` (it's the 1st number)
 
 ```
 $ ps aux|grep htop
