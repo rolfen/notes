@@ -10,7 +10,7 @@ For the sake of example, let's have `htop` running.
 $ htop
 ```
 
-In a new terminal, find the PID of `htop`
+In a new terminal, find the PID of `htop` (it's the 1st number)
 
 ```
 $ ps aux|grep htop
@@ -30,15 +30,15 @@ Inside the screen session, "bring over" `htop` by it's PID
 $ reptyr 9630
 ```
 
-Now it should be running right in front of us, in the screen session. On the old terminal (tty2) it should have stopped running with a message at the bottom
+Now it should be running right in front of us, in the screen session. On the old terminal (tty2) it would stop with a message at the bottom
 
 ```
 1+  [Stopped]     htop
 ```
 
-The new terminal which hosts the screen session can safely be killed. `htop` will keep running inside the disconnected screen session which acts as a virtual terminal.
+The new terminal which hosts the screen session can safely be killed. The screen session will persist and act as a virtual terminal for `htop`.
 
-To go back to it, find the detached screen session:
+To go back to it, find the detached screen:
 
 ```
 $ screen -ls
