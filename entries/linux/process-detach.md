@@ -44,7 +44,7 @@ To go back to it, find the detached screen:
 $ screen -ls
 There is a screen on:
         9690.pts-0.debian       (09/29/2023 10:27:59 PM)        (Detached)
-1 Socket in /run/screen/S-rolf.
+1 Socket in /run/screen/S-john.
 ```
 
 and reattach it:
