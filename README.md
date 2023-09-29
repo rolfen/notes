@@ -1,7 +1,6 @@
 Things IT:
 
-* [File Archival](entries/my-archive.md)
-* [Organizing photos into directories](https://gist.github.com/rolfen/244c691660839c27941cd371683039ba)
+* [How to keep a process running after quitting your terminal](entries/process-detach.md)
 * [Debian post-setup tasks](entries/setting-up-debian.md)
 * [Local files in Git](entries/local-config-git-php.md)
 
